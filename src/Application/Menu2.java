@@ -58,7 +58,7 @@ public class Menu2 extends javax.swing.JPanel {
             }
         });
 
-        jLabel1.setBackground(new java.awt.Color(36, 47, 65));
+        jLabel1.setBackground(new java.awt.Color(36, 47, 66));
         jLabel1.setText("jLabel1");
         jLabel1.setOpaque(true);
         jLabel1.addMouseListener(new java.awt.event.MouseAdapter() {
