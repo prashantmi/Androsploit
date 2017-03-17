@@ -8,6 +8,6 @@ adb install app/build/outputs/apk/app-debug.apk
 adb shell am start -n com.steinwurf.adbjoinwifi/com.steinwurf.adbjoinwifi.MainActivity -e ssid [SSID] -e password_type [PASSWORD_TYPE] -e password [WIFI PASSWORD]
 
 
-example:-
+example:---
 
 adb shell am start -n com.steinwurf.adbjoinwifi/com.steinwurf.adbjoinwifi.MainActivity -e ssid Hyperlapse -e password_type WPA -e password framelapse
