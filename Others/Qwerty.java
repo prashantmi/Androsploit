@@ -21,6 +21,7 @@ public class Qwerty {
    
 
 public static void main(String[] args) {
+	qwert ob1=new qwert ();
 
 	Qwerty ob= new Qwerty ();
 	
