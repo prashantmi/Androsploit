@@ -32,7 +32,4 @@
    
 * If You Fully Understand And Except This Disclaimer Then Only "Clone or Download" The Repository Or CLOSE NOW!
 
-<html>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div>
-<html>
+<p align="center"><img src="https://sophron.github.io/wifiphisher/wifiphisher.png" /></p>
