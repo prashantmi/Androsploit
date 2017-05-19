@@ -31,3 +31,8 @@
 * Usage of Androsploit to compromise/exploit any device/emulator without prior mutual consistency can be considered as an illegal activity. It is  the final user's responsibility to obey all applicable local, state and federal laws. Authors/Developer assume no liability and are not responsible for any misuse or damage caused by this program.
    
 * If You Fully Understand And Except This Disclaimer Then Only "Clone or Download" The Repository Or CLOSE NOW!
+
+<html>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div>
+<html>
