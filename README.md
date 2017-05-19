@@ -17,7 +17,7 @@
 # Help needed
 
 * If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/elprashant/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
-* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Just Make sure you do understand how the tool works before opening an issue.
+* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Please have a look at the <a href="https://github.com//elprashant/Androsploit/wiki/Bug-reporting-guidelines">Bug Reporting Guidelines</a> and the <a href="https://github.com//elprashant/Androsploit/wiki/Frequently-Asked-Questions-%28FAQ%29">FAQ document</a> beforehand. Make sure you do understand how the tool works before opening an issue.
 * Contact:- prashantmindia@gmail.com
 
 # License
