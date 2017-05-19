@@ -32,4 +32,4 @@
    
 * If You Fully Understand And Except This Disclaimer Then Only "Clone or Download" The Repository Or CLOSE NOW!
 
-<p align="center"><img src="https://drive.google.com/open?id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /></p>
+<a href="https://docs.google.com/uc?export=download&id=0B37RToy0GZgUZC1oV3lCeU1QTVE">linkedin.png</a>
