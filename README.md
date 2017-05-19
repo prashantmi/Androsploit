@@ -16,8 +16,8 @@
 
 # Help needed
 
-* If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/elprashant/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
-* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Please have a look at the <a href="https://github.com//elprashant/Androsploit/wiki/Bug-reporting-guidelines">Bug Reporting Guidelines</a> and the <a href="https://github.com//elprashant/Androsploit/wiki/Frequently-Asked-Questions-%28FAQ%29">FAQ document</a> beforehand. Make sure you do understand how the tool works before opening an issue.
+* If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/prashantmi/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
+* If you don't know how to code, still, you can help us by <a href="https://github.com/prashantmi/Androsploit/issues">reporting bugs</a>. Please have a look at the <a href="https://github.com//prashantmi/Androsploit/wiki/Bug-reporting-guidelines">Bug Reporting Guidelines</a> and the <a href="https://github.com//prashantmi/Androsploit/wiki/Frequently-Asked-Questions-%28FAQ%29">FAQ document</a> beforehand. Make sure you do understand how the tool works before opening an issue.
 * Contact:- prashantmindia@gmail.com
 
 # License
@@ -30,7 +30,7 @@
    
 * Usage of Androsploit to compromise/exploit any device/emulator without prior mutual consistency can be considered as an illegal activity. It is  the final user's responsibility to obey all applicable local, state and federal laws. Authors/Developer assume no liability and are not responsible for any misuse or damage caused by this program.
    
-* If You Fully Understand And Except This Disclaimer Then Only <a href="https://codeload.github.com/elprashant/Androsploit/zip/master">"Clone or Download"</a> The Repository Or CLOSE NOW!
+* If You Fully Understand And Except This Disclaimer Then Only <a href="https://codeload.github.com/prashantmi/Androsploit/zip/master">"Clone or Download"</a> The Repository Or CLOSE NOW!
 
 
 <a href="https://www.linkedin.com/in/prashantmi/"><p align="center"><img src="https://docs.google.com/uc?export=&id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /><i></i></p></a>
