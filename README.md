@@ -35,5 +35,5 @@
 
 <a href="https://www.linkedin.com/in/prashantmi/"><p align="center"><img src="https://docs.google.com/uc?export=&id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /></p></a>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div>
+
+<html><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script><div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="prashantmi"><a class="LI-simple-link" href='https://in.linkedin.com/in/prashantmi?trk=profile-badge'>Prashant Mishra</a></div></html>
