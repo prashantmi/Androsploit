@@ -17,11 +17,11 @@
 # Help needed
 
 * If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/elprashant/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
-* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Make sure you do understand how the tool works before opening an issue.j
+* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Just Make sure you do understand how the tool works before opening an issue.
 * Contact:- prashantmindia@gmail.com
 
 # License
-* Android-H is licensed under the GPL license. See LICENSE for more information.
+* Android-H is licensed under the GPL license. See [LICENSE](LICENSE) for more information.
 
 # Disclaimer
 
