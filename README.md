@@ -21,7 +21,7 @@
 * Contact:- prashantmindia@gmail.com
 
 # License
-* Android-H is licensed under the GPL license. See [LICENSE](LICENSE) for more information.
+* Android-H is licensed under the GPL license. See docs(LICENSE) for more information.
 
 # Disclaimer
 
