@@ -16,8 +16,8 @@
 
 # Help needed
 
-* If you know how to program in java you can help me improve Androsploit. Feel free to take a look at the application and suggest improvements, if you want to contribute please feel free to ask for the source code.
-* If you don't know how to code, you can help me by proposing improvements or reporting bugs. Make sure you do understand how the tool works before opening an issue.
+* If you know how to write a program in java you can help us take Androsploit on the next level by <a href="https://github.com/elprashant/Androsploit/issues">proposing improvements or reporting bugs</a>, if you want to contribute please feel free to ask for the source code/java files.
+* If you don't know how to code, still, you can help us by <a href="https://github.com/elprashant/Androsploit/issues">reporting bugs</a>. Make sure you do understand how the tool works before opening an issue.j
 * Contact:- prashantmindia@gmail.com
 
 # License
