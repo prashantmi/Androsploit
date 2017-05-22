@@ -4,7 +4,7 @@
 # About
 
   Androsploit is a java application an upgrade to Android-H with material design GUI it can be used to interact, manage, or compromise any "Android Device/Emulator".
-  What is Android-H. It a software based on ADB(Android Debug Bridge) with a minimal design and can compromise any "Android Device". 
+  What is Android-H. Windows application based on ADB (Android Debugging Bridge) to exploit and compromise Mobile Android Devices. 
 
 # Note
  Currently all the java files have been removed from the repository for some reason, still, you can check the layout and if you are entrusted please fell free to contact on Email:- prashantmindia@gmail.com
