@@ -1,0 +1,13 @@
+This is an Android Application SDK(Project)
+Use The Project To Build The Project Or Use The APK file 
+
+It Can be used to connect the android devices to the local wifi or access point through adb command
+
+adb install app/build/outputs/apk/ADB Connect LocalAcessPoint.apk
+
+adb shell am start -n org.sourcebit.adbconnectlocalacesspoint/org.sourcebit.adbconnectlocalacesspoint.MainActivity -e ssid [SSID] -e password_type [PASSWORD_TYPE] -e password [WIFI PASSWORD]
+
+
+example:-
+
+adb shell am start -n org.sourcebit.adbconnectlocalacesspoint/org.sourcebit.adbconnectlocalacesspoint.MainActivity -e ssid Hyperlapse -e password_type WPA -e password framelapse
