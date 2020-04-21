@@ -57,4 +57,4 @@
 * If You Fully Understand And Accept This Disclaimer Then Only <a href="https://codeload.github.com/prashantmi/Androsploit/zip/master">"Clone or Download"<a/> The Repository Or CLOSE NOW!
 
 
-<a href="https://www.linkedin.com/in/prashantmi/"><p align="center"><img src="https://docs.google.com/uc?export=&id=0B37RToy0GZgUZC1oV3lCeU1QTVE" /><i></i></p></a>
+<center><a href="https://www.linkedin.com/in/prashantmi/" align="center"><img src="linkedin.png" /></a></center>
