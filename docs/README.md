@@ -1,5 +1,3 @@
-# _________________________ Androsploit _________________________
-
 #  <center><a href="https://github.com/prashantmi/Androsploit">Androsploit</a>
 
 
